@@ -1,0 +1,13 @@
+
+.card {
+    display: row;
+    width: 300px;
+    height: 300px;
+    padding: 2px;
+    border-radius: 1px;
+ }
+
+ .card-img{
+    border-radius: 1px;
+    
+}
